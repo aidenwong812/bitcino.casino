@@ -3,7 +3,7 @@ async function handleGame(bot, msg) {
   const username = msg.chat.username;
 
   const buttons = [
-    [{ text: 'Play', web_app: { url: 'https://bullish.casino' } }],
+    [{ text: 'Play', web_app: { url: 'https://bitcino.com/' } }],
   ];
 
   const text = `Welcome @${username}\n`
